@@ -23,19 +23,15 @@ DoMath is a lightweight Android calculator built with Kotlin and Jetpack Compose
 
 ### Calculator
 
-![Calculator screen](screenshots/calculator.png)
-
-### Expression and result
-
-![Expression and calculation result](screenshots/calculator-result.png)
+![Calculator screen](android-calculator.png)
 
 ### Error handling
 
-![Calculator error state](screenshots/calculator-error.png)
+![Calculator error state](android-calculator-error.png)
 
 ### Dark theme
 
-![Calculator in dark theme](screenshots/calculator-dark-theme.png)
+![Calculator in dark theme](android-calculator-dark-theme.png)
 
 
 ## Tests
